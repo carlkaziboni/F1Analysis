@@ -2,6 +2,9 @@
 
 A comprehensive Formula 1 telemetry analysis project that evolved from exploring race data visualizations to creating machine learning models that compare driving styles between Lewis Hamilton and Charles Leclerc.
 
+## 🌐 Live Demo
+🔗 **[Try the Interactive F1 Dashboard](https://f1analysis-dvahfrlcfjew3cwgun7j7k.streamlit.app/)**
+
 ## 🚀 Project Overview
 
 What started as a curiosity about F1 telemetry data during the summer break turned into a deep dive into behavioral cloning and driver style analysis. This project demonstrates how modern AI techniques can be applied to understand and compare the subtle differences between world-class racing drivers.
@@ -75,6 +78,9 @@ python3 simple_style_comparison.py
 ```
 
 ### F1 Dashboard (Streamlit):
+🌐 **Live Demo**: [https://f1analysis-dvahfrlcfjew3cwgun7j7k.streamlit.app/](https://f1analysis-dvahfrlcfjew3cwgun7j7k.streamlit.app/)
+
+**Run Locally**:
 ```bash
 streamlit run app.py
 ```
